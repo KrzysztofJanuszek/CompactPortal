@@ -1,0 +1,720 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/github/PulpitKontrahentow/PulpitKontrahentow",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ApiDescriptionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ApiDescriptionExtensions.html",
+          "hash": "hngyCFYC30A0HSxFQG9bqw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Controllers.HelpController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Controllers.HelpController.html",
+          "hash": "9MUuYkqavxlsX3MGLvvBTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Controllers.html",
+          "hash": "0pcR6yfoFHPrqCZXkrc83Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageAreaRegistration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageAreaRegistration.html",
+          "hash": "IQOPCDYfDaNfjQxuE1rIog=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageConfig.html",
+          "hash": "+UAHSaa0Eqah1LbFOvkDBg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageConfigurationExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageConfigurationExtensions.html",
+          "hash": "zzxwZF0JFI9L8TLttK2B6A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageSampleGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageSampleGenerator.html",
+          "hash": "I2uxjPwP/CezXi/N5raRhg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageSampleKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.HelpPageSampleKey.html",
+          "hash": "5JncwcyB7rIzTP+tYCHy/Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ImageSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ImageSample.html",
+          "hash": "5j93yaM9M+my7sTd6f87uQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.InvalidSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.InvalidSample.html",
+          "hash": "noO0UfPetWPsGL2oohO64Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.CollectionModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.CollectionModelDescription.html",
+          "hash": "16Ecc5H1H3yybNBET2RcHg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ComplexTypeModelDescription.html",
+          "hash": "N4RWfyMubRUCLGPmoP9lZw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.DictionaryModelDescription.html",
+          "hash": "n6J/9zwUOb3zkjqxTMf/iQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.EnumTypeModelDescription.html",
+          "hash": "eoxFLXxR7nzyUUN6VhlXcA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.EnumValueDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.EnumValueDescription.html",
+          "hash": "g+FaaD/KoSk7VUVNAix+mA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.IModelDocumentationProvider.html",
+          "hash": "JssiZ2Ehw5oiUggrKjmjWA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.KeyValuePairModelDescription.html",
+          "hash": "2/LJ1PeEBjdRPI3/zIN0HA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelDescription.html",
+          "hash": "j1sLFi5HAM39neMkbyBitA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator.html",
+          "hash": "LvouOaaYSlhmYRUYGfK88A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ModelNameAttribute.html",
+          "hash": "uWuROC4Tfb6TE/RkLWmnCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ParameterAnnotation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ParameterAnnotation.html",
+          "hash": "Qa6by+wXavtJmXzmBCHNLg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ParameterDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.ParameterDescription.html",
+          "hash": "Z6aJVXEYjz/mJHvhU8SJPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.SimpleTypeModelDescription.html",
+          "hash": "UWDRDEosjUy7ZXBCyWbZ7Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ModelDescriptions.html",
+          "hash": "E6WLf/y/FiVHi8JUI2TPBA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Models.HelpPageApiModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Models.HelpPageApiModel.html",
+          "hash": "/1gMZz8/k5taMDlwbNVFQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.Models.html",
+          "hash": "C4oxLtuVP6zQO5XfBbrJnw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ObjectGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.ObjectGenerator.html",
+          "hash": "gIJmX1PcJAIVc+ARKDI7uA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.SampleDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.SampleDirection.html",
+          "hash": "RS1FPqTZ0GZHpg7X2dOr6Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.TextSample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.TextSample.html",
+          "hash": "WVYeXAb/yOux75dclWOOJQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.XmlDocumentationProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.XmlDocumentationProvider.html",
+          "hash": "hUx2YQ+d14xGtY/H4xKCgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Areas.HelpPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Areas.HelpPage.html",
+          "hash": "UodMvu4IX+MKO+t1KKBHug=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.BundleConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.BundleConfig.html",
+          "hash": "HtXC1WbDr4jsCU93R+hKOw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Controllers.KontrahentAPIController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Controllers.KontrahentAPIController.html",
+          "hash": "br6IJ/TzNAekXf4/5phX3A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Controllers.html",
+          "hash": "zKrR2zeq0fXImY4KjWGw3g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.FilterConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.FilterConfig.html",
+          "hash": "vodRu/j3OCsuIAyJi1FbpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.KontrahentAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.KontrahentAPI.html",
+          "hash": "1hkSDTJAj4KaKrqG/vWVQw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.LoginAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.LoginAPI.html",
+          "hash": "G+jROdndxxplaf5ClYMCQA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.ReturnControllerAction.status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.ReturnControllerAction.status.html",
+          "hash": "ta7mzQ3+JDDIHpsikHbRTw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.ReturnControllerAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.ReturnControllerAction.html",
+          "hash": "M2Y0maUaUFukszlsAygWpA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.ZadanieAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.ZadanieAPI.html",
+          "hash": "wS/W2WfQ/jypuN6KFG9wLA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.Models.html",
+          "hash": "eGmcjx9Mbs1jAW9oZ6bBlA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.RouteConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.RouteConfig.html",
+          "hash": "07YTVfXfB8hjtP2ozuYpRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.SwaggerConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.SwaggerConfig.html",
+          "hash": "gsHYtyKyThTA4tUAEPKtfQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.WebApiApplication.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.WebApiApplication.html",
+          "hash": "jYxBbsHcF6HT0oKdcm1Cow=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.WebApiConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.WebApiConfig.html",
+          "hash": "72VLx1+AxWJZ8k91mZcwrQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.eaContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.eaContext.html",
+          "hash": "QrWW+C1x53g6+JzyGrpZOQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PulpitKontrahentow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PulpitKontrahentow.html",
+          "hash": "iGBQaX3YNt7GSxlyFmFpUQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "XO0TltOoazrRFfMKIxAniw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "x6FLwPE4st+Ke9u3L4mmuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/Requirements.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/Requirements.html",
+          "hash": "egTbz6JvfeApAEELO5ijIw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "so0rs4b8Dly1PdB5h7qvuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/zabezpieczenie.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/zabezpieczenie.html",
+          "hash": "GHT3Ps9iG6wajitlSMoqRA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "RHAKQGOZzjZTX1L5CUJqxg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "GAgNUPlk14IJ24lpsOZBvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 4
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 47,
+          "skipped_file_count": 47
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
